@@ -17,4 +17,7 @@ brew install \
 
 brew cask install --appdir=/Applications \
     vagrant \
-    virtualbox
+    virtualbox \
+    virtualbox-extension-pack
+
+vagrant plugin install vagrant-hostmanager
