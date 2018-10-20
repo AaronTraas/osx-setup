@@ -8,4 +8,4 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 export PS1='\u@\h:\w$ ';
 
 # ls is now useful
-alias ls='ls -FG';
+alias ls='exa --git'
