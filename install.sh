@@ -27,13 +27,12 @@ brew install \
     fontconfig \
     freetype \
     ghostscript \
+    exa \
     git \
     go \
     htop-osx \
     imagemagick \
     lame \
-    mercurial \
-    ngrok \
     nmap \
     node \
     openssl \
@@ -46,7 +45,6 @@ brew install \
 brew cask install --appdir=/Applications \
     1password \
     alfred \
-    atom \
     bartender \
     deeper \
     dropbox \
