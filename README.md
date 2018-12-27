@@ -3,7 +3,7 @@ Aaron's default OSX setup scripts
 
 ## Install dependencies on your Mac
 
-1. install [Xcode from the Mac App Store][https://developer.apple.com/xcode/download/]
+1. install [Xcode from the Mac App Store](https://developer.apple.com/xcode/download/)
 2. launch Xcode
 3. accept license agreement
 
